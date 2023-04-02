@@ -1,0 +1,35 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Lauren Olson
+      value: Lauren Olson
+    - name: Date of Birth
+      value: Lauren Olson
+    - name: Languages
+      value: English, Spanish 
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Honors Bachelor of Arts in Philosophy
+      institution: University of Arizona, Tucson, Arizona
+      year: 2020
+
+    - title: Honors Bachelor of Science in Computer Science
+      institution: University of Arizona, Tucson, Arizona
+      year: 2020
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018
+      items: 
+        - Grace Hopper Scholarship
+    - year: 2019
+      items: 
+        - Honors Legacy Award 
+       description: $1000 for annotating data for thesis 
+
+
+
