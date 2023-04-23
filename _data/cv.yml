@@ -42,8 +42,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, 
-California, US
+      institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
         - Description 1.
@@ -67,8 +66,7 @@ California, US
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme 
-for academics.
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
