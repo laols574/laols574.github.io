@@ -12,20 +12,20 @@
   type: time_table
   contents:
       - title: PhD in Artificial Intelligence
-      institution: Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
-      year: 2021-
-      description:
-        - Member of Social AI, Software and Sustainability, and Network Institute
-        - Elicitation of Users Ethical Requirements via Conversational Agents
+        institution: Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+        year: 2021
+        description:
+          - Member of Social AI, Software and Sustainability, and Network Institute
+          - Elicitation of Users Ethical Requirements via Conversational Agents
     - title: Bachelor of Science
       institution: University of Arizona, Tucson, Arizona, USA
-      year: 2016-2020
+      year: 2020
       description:
         - Graduated Cum Laude with Honors
         - Completed thesis
       - title: Bachelor of Arts 
         institution: University of Arizona, Tucson, Arizona, USA
-        year: 2016-2020
+        year: 2020
         description:
           - Graduated Cum Laude with Honors
           - Completed thesis
