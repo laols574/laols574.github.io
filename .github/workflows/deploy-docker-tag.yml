@@ -1,5 +1,4 @@
 name: Docker Image CI (Upload Tag)
--script: echo "deploy docker"
 on:
   push:
     tags:

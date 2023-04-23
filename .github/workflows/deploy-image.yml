@@ -1,5 +1,4 @@
 name: Docker Image CI
--script: echo "deploy image"
 on:
   push:
     branches: [ master ]
