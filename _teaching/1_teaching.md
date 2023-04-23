@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: teaching 1
+description: a lesson with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
