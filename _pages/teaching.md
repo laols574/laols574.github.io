@@ -25,5 +25,5 @@ horizontal: false
       {% include teaching.html %}
     {%- endfor %}
   </div>
-   {% endfif -%}
+   {% endif -%}
 </div>
