@@ -25,6 +25,4 @@ horizontal: false
       {% include teaching.html %}
     {%- endfor %}
   </div>
-  {%- endif -%}
-{%- endif -%}
 </div>
