@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ethical concerns in software development survey
-description: this survey intends to make transparent how ethical concerns arise and manifestduring the modern software development process
+description: this survey intends to make transparent how ethical concerns arise and manifest during the modern software development process
 img: assets/img/3.jpg
 importance: 2
 category: work
