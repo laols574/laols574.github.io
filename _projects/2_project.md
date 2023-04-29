@@ -14,7 +14,7 @@ The survey is entirely anonymous. Our utmost purpose is to create a channel wher
 <div class="row">
     <a href="https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_6J8LNL8BYSuUuAC">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ethical_concerns_in_sd.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ec_sd.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     </a>
 </div>
