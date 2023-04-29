@@ -1,3 +1,4 @@
+---
 - title: General Information
   type: map
   contents:
@@ -6,24 +7,25 @@
     - name: Date of Birth
       value: 10th April 1998
     - name: Languages
-      value: 'English, Spanish'
+      value: English, Spanish
 - title: Education
   type: time_table
   contents:
     - title: PhD in Artificial Intelligence
-      institution: 'Vrije Universiteit Amsterdam, Amsterdam, The Netherlands'
+      institution: Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
       year: 2021
       description:
-        - Member of Social AI and Software and Sustainability research groups, and the Network Institute
+        - Member of Social AI and Software and Sustainability research groups,
+          and the Network Institute
         - Elicitation of Users Ethical Requirements via Conversational Agents
     - title: Bachelor of Science
-      institution: 'University of Arizona, Tucson, Arizona, USA'
+      institution: University of Arizona, Tucson, Arizona, USA
       year: 2020
       description:
         - Graduated Cum Laude with Honors
         - Completed thesis
     - title: Bachelor of Arts
-      institution: 'University of Arizona, Tucson, Arizona, USA'
+      institution: University of Arizona, Tucson, Arizona, USA
       year: 2020
       description:
         - Graduated Cum Laude with Honors
