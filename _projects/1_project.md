@@ -1,7 +1,7 @@
 ---
 layout: page
 title: human factors club
-description: interdisciplinary reading group centered around integrating humanity and ICT
+description: interdisciplinary reading group centered around integrating humanity into ICT
 img: assets/img/12.jpg
 importance: 1
 category: work
