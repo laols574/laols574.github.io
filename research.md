@@ -8,11 +8,13 @@ title: Research
 ## Research supervision and mentoring
 
 ### Master's students
+
 | Name | Thesis | Period |
 |----------|----------|----------|
 | Bob Westerveld | "Enhancing an existing prioritization system through hyperparameter optimization" | January 2024-July 2024 |
 
 ### Bachelor's students
+
 | Name | Thesis | Period |
 |----------|----------|----------|
 | Catalin Niculescu | "There is no single answer to ethical questions": Human Agents vs AI Chatbots in Ethical ICT Interactions" | January 2024-July 2024 |
@@ -22,9 +24,10 @@ title: Research
 | Xin Wu | "Classifying game defects based on Chinese user reviews" | January 2023-July 2023 |
 
 ## Organized events
+
 - Human Factors Club
 
 ## Reviewing
+
 Reviewer of the following conferences:
  - Conference on Computer-Supported Cooperative Work and Social Computing
-
