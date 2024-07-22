@@ -1,1 +1,51 @@
 @import "{{ site.theme }}";
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background: linear-gradient(to right, #ece9e6, #ffffff);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .profile-pic {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-top: 20px;
+        }
+        .header {
+            font-size: 2.5em;
+            margin-top: 20px;
+        }
+        .subheader {
+            font-size: 1.5em;
+            color: #666;
+        }
+        .bio {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .social-links {
+            margin: 20px 0;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+            font-size: 1.2em;
+        }
+        .social-links a:hover {
+            color: #007acc;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #999;
+        }
