@@ -5,6 +5,6 @@ description: "my website"
 baseurl: ""
 url: "https://laols574@github.io"
 
-theme: jekyll-theme-minima
+theme: minima
 
 markdown: kramdown
