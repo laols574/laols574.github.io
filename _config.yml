@@ -1,1 +1,11 @@
+title: "Academic Portfolio"
+email: l.a.olson@vu.nl
+description: >-
+my website!!!
+
+baseurl: ""
+url: "https://laols574@github.io"
+
 theme: jekyll-theme-minima
+
+markdown: kramdown
