@@ -11,4 +11,4 @@ markdown: kramdown
 
 assets:
   css: 
-    - /assets/css/style.css
+    - /assets/css/style.scss
