@@ -9,6 +9,5 @@ theme: minima
 
 markdown: kramdown
 
-assets:
-  css: 
-    - /assets/css/style.scss
+sass:
+  style: compressed
