@@ -8,3 +8,7 @@ url: "https://laols574@github.io"
 theme: minima
 
 markdown: kramdown
+
+assets:
+  css: 
+    - /assets/css/style.css
