@@ -30,4 +30,9 @@ title: Research
 ## Reviewing
 
 Reviewer of the following conferences:
- - Conference on Computer-Supported Cooperative Work and Social Computing
+ - Conference on Computer-Supported Cooperative Work and Social Computing 2024 (main reviewer)
+ - International Conference of Software Engineering (SEIS Track) 2023, 2025 (co-reviewer)
+ - International Confernece of Software Engineering (Research Track) 2025 (co-reviewer)
+ - Communities & Technologies 2025 (main reviewer)
+ - Empirical Software Engineering (co-reviewer)
+ - International Conference on Natural Language Processing and Chinese Computing 2025 (main reviewer)
