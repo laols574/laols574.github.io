@@ -22,6 +22,12 @@ title: Publications
 - **Abstract:** We identified ethical concerns of marginalized communities about social platforms by analyzing 586 subreddits. Our findings show that these concerns primarily involve discrimination and misrepresentation, highlighting shortcomings in current software development practices. We also explored the potential for automatically classifying these concerns using natural language processing (NLP).
 - **Link:** [https://ieeexplore.ieee.org/iel7/10173779/10173870/10173905.pdf](#)
 
+### Who Speaks for Ethics? How Demographics Shape Ethical Advocacy in Software Development
+- **Authors:** Lauren Olson, Ricarda Anna-Lena Fischer, Florian Kunneman, Emitzá Guzmán  
+- **Conference:** FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency  
+- **Abstract:** This study explores how software developers’ demographic backgrounds shape their capacity to perceive and advocate for ethical concerns. Based on a survey of 217 practitioners across diverse roles and regions, the findings show that marginalized groups—such as women, BIPOC, and disabled individuals—report ethical concerns more frequently and feel more empowered to address them. However, organizational environments often fail to support ethical advocacy across the board. The authors call for reforms in software education and development that prioritiz
+- **Link:** [https://arxiv.org/abs/2504.10276](#)
+- 
 ## Extended Abstracts
 
 ### Custom Developer GPT for Ethical AI Solutions
