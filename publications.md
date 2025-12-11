@@ -59,7 +59,7 @@ title: Publications
 ## Under Submission:
 
 ### EVA: The Ethical Virtual Advocate 
-- **Abstract:** 
+- **Abstract:** Software developers often struggle to recognize and advocate for ethical concerns in real workplace settings, a challenge compounded by managerial pressure and the limitations of traditional, principle-focused ethics education. EVA is a conversational agent that provides realistic practice in ethical advocacy, demonstrating through mixed-methods experiments that such tools can strengthen developers’ confidence, ethical awareness, and argumentation skills while highlighting opportunities for further refinement.
 
 - **Try EVA!!**: Feel free to check out the tool: [evai.site](https://evai.site) and let me know what you think!  
   If there are issues, I may be updating the code.  
