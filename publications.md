@@ -38,6 +38,10 @@ title: Publications
 - **Conference:** FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency  
 - **Abstract:** This study explores how software developers’ demographic backgrounds shape their capacity to perceive and advocate for ethical concerns. Based on a survey of 217 practitioners across diverse roles and regions, the findings show that marginalized groups—such as women, BIPOC, and disabled individuals—report ethical concerns more frequently and feel more empowered to address them. However, organizational environments often fail to support ethical advocacy across the board. The authors call for reforms in software education and development that prioritize diverse perspectives to promote more equitable and responsible computing.  
 - **Link:** [https://arxiv.org/abs/2504.10276](#)
+- **Presentation:** 
+[![Who Speaks for Ethics Presentation at FAccT](https://img.youtube.com/vi/n2ud0h0Qp04/0.jpg)](https://www.youtube.com/watch?v=n2ud0h0Qp04)
+
+
   
 ## Extended Abstracts
 
