@@ -37,10 +37,15 @@ title: Publications
 - **Authors:** Lauren Olson, Ricarda Anna-Lena Fischer, Florian Kunneman, Emitzá Guzmán  
 - **Conference:** FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency  
 - **Abstract:** This study explores how software developers’ demographic backgrounds shape their capacity to perceive and advocate for ethical concerns. Based on a survey of 217 practitioners across diverse roles and regions, the findings show that marginalized groups—such as women, BIPOC, and disabled individuals—report ethical concerns more frequently and feel more empowered to address them. However, organizational environments often fail to support ethical advocacy across the board. The authors call for reforms in software education and development that prioritize diverse perspectives to promote more equitable and responsible computing.  
-- **Link:** [https://arxiv.org/abs/2504.10276](#)
-- **Presentation:** 
-[![Who Speaks for Ethics Presentation at FAccT](https://img.youtube.com/vi/n2ud0h0Qp04/0.jpg)](https://www.youtube.com/watch?v=n2ud0h0Qp04)
+- **Link:** [https://dl.acm.org/doi/pdf/10.1145/3715275.3732183](#)
+- **Presentation:** [![Who Speaks for Ethics Presentation at FAccT](https://img.youtube.com/vi/n2ud0h0Qp04/0.jpg)](https://www.youtube.com/watch?v=n2ud0h0Qp04)
 
+### PerspectiveCoach: Exploring LLMs for Developer Reflection
+- **Authors:** Lauren Olson, Emitzá Guzman, Florian Kunneman
+- **Conference:** 2026 IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)
+- **Abstract:** Despite growing awareness of ethical challenges in software development, practitioners lack structured tools for engaging with the lived experiences of marginalized users. This paper presents \perspective{}, an LLM-powered conversational tool that guides developers through perspective-taking exercises to reflect on how design decisions affect marginalized communities. Through a controlled study with 18 front-end developers using a real case of online gender-based harassment, we examine how \perspective{} supports ethical reasoning. This work offers an exploratory design for LLM-supported perspective taking and empirical insights into developing more adaptive and inclusive ethical-reflection tools.
+- **Link:** TBR
+- **Try PerspectiveCoach!!** [https://chatgpt.com/g/g-6808ecd7c9348191ae3fbabedadae361-perspective-coach](#) I will be moving this tool away from OpenAI soon. Please stay tuned. 
 
   
 ## Extended Abstracts
@@ -50,4 +55,14 @@ title: Publications
 - **Journal:** Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI
 - **Abstract:** This project aims to develop a custom Generative Pre-trained Transformer (GPT) to help developers address ethical issues in AI engineering. The conversational agent will guide compliance with legal frameworks like the EU AI Act and GDPR, and offer alternative ethical perspectives. We outline the need for this tool, describe its design, and demonstrate its use, showing how it can help practitioners create AI solutions that meet legal standards and embrace diverse ethical viewpoints.
 - **Link:** [https://dl.acm.org/doi/pdf/10.1145/3644815.3644987](#)
+
+## Under Submission:
+
+### EVA: The Ethical Virtual Advocate 
+- **Abstract:** 
+
+
+- **Try EVA!!**: Feel free to check out the tool: [evai.site](#) and let me know that you think! FYI: If there are issues, it is possible that I'm making changes to the code. If you'd like to request code changes, feel free to reach out or make a pull request! [[github](https://github.com/laols574/EVA.git)](#) To see Egemen's initial version, check out: [[github]https://github.com/egemenmermer/EVA.git](#)
+
+
 
