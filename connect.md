@@ -13,5 +13,5 @@ title: Connect
 
 
 ## Online Profiles
-- **Google Scholar:** [My Profile](https://scholar.google.com/citations?hl=en&user=moJZVa4AAAAJ)
+- **Google Scholar:** [My Profile](https://scholar.google.com/citations?user=FspG_1sAAAAJ&hl=en)
 
