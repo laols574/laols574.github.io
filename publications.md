@@ -45,8 +45,8 @@ title: Publications
 - **Authors:** Lauren Olson, Emitzá Guzman, Florian Kunneman
 - **Conference:** 2026 IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)
 - **Abstract:** Despite growing awareness of ethical challenges in software development, practitioners lack structured tools for engaging with the lived experiences of marginalized users. This paper presents \perspective{}, an LLM-powered conversational tool that guides developers through perspective-taking exercises to reflect on how design decisions affect marginalized communities. Through a controlled study with 18 front-end developers using a real case of online gender-based harassment, we examine how \perspective{} supports ethical reasoning. This work offers an exploratory design for LLM-supported perspective taking and empirical insights into developing more adaptive and inclusive ethical-reflection tools.
-- **Link:** TBR
-- **Try PerspectiveCoach!!** [https://chatgpt.com/g/g-6808ecd7c9348191ae3fbabedadae361-perspective-coach](https://chatgpt.com/g/g-6808ecd7c9348191ae3fbabedadae361-perspective-coach)
+- **Link:** [[https://arxiv.org/pdf/2601.02559](https://arxiv.org/pdf/2601.02559)]
+
 
 ## Extended Abstracts
 
