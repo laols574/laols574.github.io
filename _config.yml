@@ -1,13 +1,22 @@
 title: "Lauren Olson"
 email: l.a.olson@vu.nl
 description: "my website"
-
 baseurl: ""
 url: "https://laols574@github.io"
-
 theme: minima
 
-markdown: kramdown
+header_pages:
+  - about.md
+  - publications.md
+  - blog.md
 
+minima: 
+  skin: auto
+  social_links:
+    - {platform: github, user_url: "https://github.com/laols574"}
+
+permalink: /blog/:title/
+
+markdown: kramdown
 sass:
   style: compressed
