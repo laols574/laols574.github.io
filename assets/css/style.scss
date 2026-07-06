@@ -1,11 +1,14 @@
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
-    color: #333;
-    background: linear-gradient(to right, #ece9e6, #ffffff);
+    font-family: "Inter", Arial, sans-serif;
+    color: #3a2f28;
+    background: linear-gradient(to right, #faf6f0, #fff8ef);
     margin: 0;
     padding: 0;
 }
+
 .container {
     width: 90%;
     max-width: 1000px;
@@ -13,51 +16,108 @@ body {
     padding: 20px;
     text-align: center;
 }
+
 .profile-pic {
     border-radius: 50%;
     width: 150px;
     height: 150px;
     object-fit: cover;
     margin-top: 20px;
+    border: 3px solid #e3d5c5;
 }
+
 .header {
+    font-family: "Lora", Georgia, serif;
     font-size: 2.5em;
     margin-top: 20px;
+    color: #6b3410;
 }
+
 .subheader {
     font-size: 1.5em;
-    color: #666;
+    color: #8c6a4f;
 }
+
 .bio {
     font-size: 1.2em;
     margin: 20px 0;
+    line-height: 1.6;
 }
+
 .social-links {
     margin: 20px 0;
 }
+
 .social-links a {
     margin: 0 10px;
     text-decoration: none;
-    color: #333;
+    color: #3a2f28;
     font-size: 1.2em;
 }
+
 .social-links a:hover {
-    color: #007acc;
+    color: #b5651d;
 }
+
 nav {
     margin: 20px 0;
 }
+
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #333;
+    color: #3a2f28;
     font-size: 1.2em;
+    font-weight: 500;
 }
+
 nav a:hover {
-    color: #007acc;
+    color: #b5651d;
 }
+
 footer {
     margin-top: 50px;
     font-size: 0.9em;
-    color: #999;
+    color: #a89484;
+}
+
+// --- Blog & post page styling (inherits minima's base layout classes) ---
+
+h1, h2, h3, .post-title, .site-title {
+    font-family: "Lora", Georgia, serif;
+}
+
+.post-list {
+    list-style: none;
+    margin-left: 0;
+
+    li {
+        background: #fff;
+        border: 1px solid #e3d5c5;
+        border-radius: 12px;
+        padding: 24px 28px;
+        margin-bottom: 24px;
+        transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+        &:hover {
+            box-shadow: 0 4px 14px rgba(181, 101, 29, 0.12);
+            transform: translateY(-2px);
+        }
+    }
+}
+
+.post-link {
+    color: #6b3410;
+}
+
+.post-meta {
+    color: #8c6a4f;
+    font-style: italic;
+}
+
+blockquote {
+    border-left: 4px solid #d99a5b;
+    background: #fff8ef;
+    padding: 10px 20px;
+    border-radius: 0 8px 8px 0;
 }
