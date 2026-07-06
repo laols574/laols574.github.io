@@ -9,6 +9,8 @@ header_pages:
   - about.md
   - publications.md
   - blog.md
+  - teaching.md
+  - research.md
 
 minima: 
   skin: auto
