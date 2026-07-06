@@ -1,8 +1,8 @@
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&display=swap');
 
 body {
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Assistant", Arial, sans-serif;
     color: #3a2f28;
     background: linear-gradient(to right, #faf6f0, #fff8ef);
     margin: 0;
@@ -27,7 +27,7 @@ body {
 }
 
 .header {
-    font-family: "Lora", Georgia, serif;
+    font-family: "Assistant", Georgia, serif;
     font-size: 2.5em;
     margin-top: 20px;
     color: #6b3410;
@@ -84,7 +84,7 @@ footer {
 // --- Blog & post page styling (inherits minima's base layout classes) ---
 
 h1, h2, h3, .post-title, .site-title {
-    font-family: "Lora", Georgia, serif;
+    font-family: "Assistant", Georgia, serif;
 }
 
 .post-list {
